@@ -6,9 +6,9 @@ setup(
     author="Warwick Machine Learning Group",
     description="",
     install_requires=[
-        "numpy>=2.6.0",
-        "pandas>=1.0.0",
-        "pydantic>=1.8.2",
+        "numpy>=1.21.0",
+        "pandas>=1.3.0",
+        "pydantic>=1.8.0",
     ],
     name="pywmlg",
     packages=find_packages(),

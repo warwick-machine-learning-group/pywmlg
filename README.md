@@ -24,7 +24,7 @@ conda activate pywmlg
 Install the package with pip
 
 ```bash
-pip install pywmlg
+pip install -e .
 ```
 
 ## Tests
