@@ -1,0 +1,4 @@
+black>=21.9b0
+mypy>=0.910
+pytest>=6.2.5
+pylint>=2.11.1

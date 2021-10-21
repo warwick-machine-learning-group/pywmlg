@@ -29,6 +29,12 @@ pip install -e .
 
 ## Tests
 
+To install pytest and linting libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
 Run the unit tests with pytest:
 
 ```bash
